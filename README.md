@@ -74,38 +74,25 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[DocuChat AI](https://docuchat.adityadeveloper.com)** | Production RAG app — upload a PDF, ask questions, get answers with exact page citations | Python, FastAPI, Gemini AI, ChromaDB, Docker |
-| **[ERPGroup](https://www.erpgroup.in/)** | Business ERP & accounting platform for Indian businesses — invoicing, payroll, GST-compliant docs | PHP, Laravel, MySQL, REST APIs, AWS |
-| **[E‑Factura](https://efactura.artisticbird.com)** | Spanish electronic invoicing system, VeriFactu-compliant, with QR invoice verification | Laravel, MySQL, JavaScript |
-| **[UniHawk](https://www.unihawk.com/)** | Platform helping students explore international university admissions | Laravel, JavaScript, AWS |
-| **[Taxsmooth](https://www.taxsmooth.com/)** | Income tax guidance and filing resource platform | Laravel, MySQL |
-| **[Chukde](https://www.chukde.com)** | Laravel-based e‑commerce platform with API integrations | Laravel, REST APIs |
-| **[Al Salir del Cole S.L.](https://www.alsalirdelcolesl.es/)** | Content & workflow platform, deployed via Cloudways | Laravel, Sass, JavaScript |
+| **<a href="https://docuchat.adityadeveloper.com" target="_blank">DocuChat AI</a>** | Production RAG app — upload a PDF, ask questions, get answers with exact page citations | Python, FastAPI, Gemini AI, ChromaDB, Docker |
+| **<a href="https://www.erpgroup.in/" target="_blank">ERPGroup</a>** | Business ERP & accounting platform for Indian businesses — invoicing, payroll, GST-compliant docs | PHP, Laravel, MySQL, REST APIs, AWS |
+| **<a href="https://efactura.artisticbird.com" target="_blank">E‑Factura</a>** | Spanish electronic invoicing system, VeriFactu-compliant, with QR invoice verification | Laravel, MySQL, JavaScript |
+| **<a href="https://www.unihawk.com/" target="_blank">UniHawk</a>** | Platform helping students explore international university admissions | Laravel, JavaScript, AWS |
+| **<a href="https://www.taxsmooth.com/" target="_blank">Taxsmooth</a>** | Income tax guidance and filing resource platform | Laravel, MySQL |
+| **<a href="https://www.chukde.com" target="_blank">Chukde</a>** | Laravel-based e‑commerce platform with API integrations | Laravel, REST APIs |
+| **<a href="https://www.alsalirdelcolesl.es/" target="_blank">Al Salir del Cole S.L.</a>** | Content & workflow platform, deployed via Cloudways | Laravel, Sass, JavaScript |
 
-📄 [Download Resume](https://www.adityadeveloper.com/wp-content/themes/aditya-portfolio/assets/AdityaSharmaFullStackDeveloper.pdf) · 🌐 [Full Project List](https://www.adityadeveloper.com/projects/)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma2004&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSharma2004&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma2004&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+📄 <a href="https://www.adityadeveloper.com/wp-content/themes/aditya-portfolio/assets/AdityaSharmaFullStackDeveloper.pdf" target="_blank">Download Resume</a> · 🌐 <a href="https://www.adityadeveloper.com/projects/" target="_blank">Full Project List</a>
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aditya-sharma-604414234/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aditya-sharma-604414234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thedevaditya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="tel:+919650648834"><img src="https://img.shields.io/badge/Call-%2B91_9650648834-25D366?logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.adityadeveloper.com/"><img src="https://img.shields.io/badge/Portfolio-adityadeveloper.com-FF2D20?logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.adityadeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-adityadeveloper.com-FF2D20?logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
